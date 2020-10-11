@@ -1,5 +1,5 @@
-<h1 align="center">hi, my name is Daniel Palma (Danny Palma)</h1>
-<h3 align="center">baby developer form colombia</h3>
+<h1 align="center">Hi, my name is OrionVi</h1>
+<h3 align="center">Newbie dev from SPAIN</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hola-sebas" alt="hola-sebas" />
